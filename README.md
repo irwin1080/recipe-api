@@ -7,4 +7,4 @@ Recipe routes that house all the get,post, delete methods
 
 
 API/Models/
-Recipe Schema created to store objects in a MongoDB
+Recipe Schema created to store objects in MongoDB
